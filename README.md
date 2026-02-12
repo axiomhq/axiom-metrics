@@ -18,7 +18,7 @@ Queries OpenTelemetry metrics stored in Axiom's MetricsDB using MPL, a purpose-b
 ### Amp
 
 ```bash
-amp skill install github.com/axiomhq/axiom-metrics
+amp skill add --global axiomhq/axiom-metrics
 ```
 
 ### Claude Code (via marketplace)
