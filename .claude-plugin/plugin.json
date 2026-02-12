@@ -1,6 +1,6 @@
 {
   "name": "axiom-metrics",
-  "description": "Queries Axiom MetricsDB using AxQL via curl. Discovers available metrics, tags, and tag values. Use when asked to query metrics, explore metric datasets, check metric values, or investigate OTel metrics data.",
+  "description": "Queries Axiom MetricsDB using MPL via curl. Discovers available metrics, tags, and tag values. Use when asked to query metrics, explore metric datasets, check metric values, or investigate OTel metrics data.",
   "version": "1.0.0",
   "author": {
     "name": "Heinz Gies",
@@ -10,5 +10,5 @@
   "homepage": "https://github.com/axiomhq/axiom-metrics",
   "repository": "https://github.com/axiomhq/axiom-metrics",
   "license": "MIT",
-  "keywords": ["axiom", "metrics", "axql", "opentelemetry", "observability"]
+  "keywords": ["axiom", "metrics", "mpl", "opentelemetry", "observability"]
 }
