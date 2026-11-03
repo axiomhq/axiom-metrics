@@ -1,5 +1,8 @@
 # Axiom Metrics
 
+> [!IMPORTANT]
+> This repository is archived. To query metrics from a coding agent, use the [Axiom MCP Server](https://axiom.co/docs/console/intelligence/mcp-server).
+
 A skill for querying Axiom MetricsDB using MPL.
 
 ## Description
